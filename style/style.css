@@ -1,0 +1,77 @@
+body { 
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    background-color: #f2f2f2;
+}
+table{  
+     margin: auto;
+     width: 90%; 
+     height: 20%;
+  border-spacing: 40px 20px;
+}
+.Style1 {
+    background-color: #fff;
+    color:#706f6f;
+    border: 2px solid #c7c6c6;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 20px;
+
+}
+.Style2 {
+    background-color: #fff;
+    color:#706f6f;
+    border: 3px solid #049ff8;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 30px;
+
+}
+.Style3 {
+    background-color: #fcd421;
+    color:#706f6f;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 30px;
+
+}
+.Style4 {
+    background-color: #dbdbda;
+    color:#706f6f;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 30px;
+}
+.Style5 {
+    background-color: #ffffff;
+    color:#706f6f;
+    border: 2px solid #a7a6a6;
+    border-radius:20px;
+    padding: 10px;
+    padding-right: 30px;
+}
+.Style6 {
+    background-color: #ffffff;
+    color:#706f6f;
+    border: 2px dashed #a7a6a6;
+    border-radius:10px;
+    padding: 10px;
+    padding-right: 30px;
+}
+.Style7 {
+    background-color: #f0f0f0;
+    color:#706f6f;
+    border: 2px solid #c7c6c6;
+    padding: 10px;
+    padding-right: 20px;
+}
+.Style8 {
+    background-color: #222121;
+    color:#d1d1d1;
+    border: 2px solid #707070;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 20px;
+}
